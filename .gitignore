@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Power BI temp/lock files
+~$*.pbix
+*.pbix.lock
+
+# Editor
+.vscode/
+.idea/
